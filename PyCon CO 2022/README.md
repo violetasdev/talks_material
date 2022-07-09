@@ -4,7 +4,7 @@
 
 ### OpenPose
 
-- [OpenPose Documentation](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html)
+- [OpenPose documentation web](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html)
 - [OpenPose Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [OpenPose Download](https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases/tag/v1.7.0)
 
