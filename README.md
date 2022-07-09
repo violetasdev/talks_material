@@ -1,2 +1,2 @@
-# talks_material
+# Talks/Conference Public Resources
 Talks/Conference resources wiki
