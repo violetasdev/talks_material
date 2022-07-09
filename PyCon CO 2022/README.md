@@ -1,6 +1,6 @@
-# PyConference Colombia 2022
+# PyCon Colombia 2022
 
-## The Power of Tracking the imposible: Geoinformatics and Human Social Behavior
+## The Power of tracking the invisible: Geoinformatics and Human Social Behavior
 
 ### OpenPose
 
